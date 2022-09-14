@@ -1,0 +1,8 @@
+.projectWrapper {
+  cursor: pointer;
+  outline: none;
+}
+
+.projectTop {
+  user-select: none;
+}
